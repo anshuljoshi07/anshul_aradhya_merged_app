@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:background="#D7CA1616"
+        android:padding="12dp">
+
+    <ImageView
+            android:id="@+id/dtulogo"
+            android:layout_width="143dp"
+            android:layout_height="128dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="256dp"
+            android:layout_marginBottom="0dp"
+            android:src="@drawable/dtu_logo" />
+
+
+
+</RelativeLayout>
